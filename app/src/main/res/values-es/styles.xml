@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Theme.WrapContent.RefundNanas" parent="@style/Theme.WrapContent.BaseRefundNanas"><item name="android:paddingTop">6.0dip</item></style>
+</resources>

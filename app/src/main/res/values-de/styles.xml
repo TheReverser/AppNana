@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Theme.OrangeTabPageIndicator" parent="@style/Widget.TabPageIndicator"><item name="android:textAppearance">@android:style/TextAppearance.Medium</item><item name="android:textSize">16.0sp</item><item name="android:textColor">@drawable/orange_white_text</item><item name="android:background">@drawable/tab_white</item><item name="android:paddingLeft">0.0dip</item><item name="android:paddingRight">0.0dip</item><item name="android:divider">@drawable/tab_orange_indicator_divider</item><item name="android:showDividers">middle</item></style>
+<style name="Theme.WrapContent.RefundNanas" parent="@style/Theme.WrapContent.BaseRefundNanas"><item name="android:paddingTop">6.0dip</item></style>
+</resources>
