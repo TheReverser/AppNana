@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/btn_dropdown" android:paddingLeft="@dimen/base_dimen" android:paddingRight="@dimen/base_dimen" style="@style/Theme.WrapContent">
+	<TextView android:textAppearance="@android:style/TextAppearance.Small" android:textColor="@android:color/white" android:gravity="center_vertical" android:id="@id/txt_name" android:paddingTop="4.0dip" android:paddingRight="@dimen/base_dimen" android:paddingBottom="4.0dip" android:drawablePadding="@dimen/base_dimen" style="@style/Theme.WrapContent" />
+</LinearLayout>
